@@ -1,7 +1,5 @@
 Buscador de Receitas
 
-Você pode copiar e colar 👇
-
 🍔 Buscador de Receitas
 
 Aplicação web que permite buscar receitas a partir de um ingrediente informado pelo usuário, consumindo dados de uma API externa.
