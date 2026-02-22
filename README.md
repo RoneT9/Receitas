@@ -1,4 +1,3 @@
-Buscador de Receitas
 
 🍔 Buscador de Receitas
 
